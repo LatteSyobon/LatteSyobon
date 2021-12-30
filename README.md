@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @LatteSyobon
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Hi, I’m @LatteSyobon
+
+# Status
+[![LatteSyobon's github stats](https://github-readme-stats.vercel.app/api?username=LatteSyobon&hide=contribs&count_private=true&show_icons=true&theme=synthwave)](https://github.com/LatteSyobon/)
+[![Top used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LatteSyobon&layout=compact&theme=synthwave)](https://github.com/LatteSyobon/)
 
 <!---
 LatteSyobon/LatteSyobon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
